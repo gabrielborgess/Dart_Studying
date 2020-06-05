@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5715ad05-4e26-4dd4-9e3f-7997c1e25992" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Dart.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/gabri.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Colecciones/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diccionarios/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Variables, numero, etc/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/Variables, numero, etc/main.dart" afterDir="false" />
     </list>
@@ -15,6 +12,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
@@ -35,15 +39,15 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../tools/dart-sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Colecciones" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
     <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/Variables, numero, etc/main.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/Variables, numero, etc" />
+      <option name="filePath" value="$PROJECT_DIR$/Diccionarios/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -62,65 +66,90 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591309203618</updated>
-      <workItem from="1591309207561" duration="2463000" />
+      <workItem from="1591309207561" duration="3502000" />
+      <workItem from="1591325750857" duration="1138000" />
     </task>
+    <task id="LOCAL-00001" summary="Adelanto y prueba de git webstorm">
+      <created>1591311763859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591311763859</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adelanto y prueba de git webstorm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adelanto y prueba de git webstorm" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591309563785">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591326897848">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591309563785" />
-    <state x="498" y="202" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1591309560584">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591326897848" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1591326896759">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="202" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591309560584" />
-    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1591309521540">
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591326896759" />
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1591311763123">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591309521540" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1591311732715">
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591311763123" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1591313180742">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591311732715" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1591311732714">
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591313180742" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1591311788080">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591311732714" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1591311732714">
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591311788080" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1591326868651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591311732714" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1591311732714">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591326868651" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1591326868650">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591311732714" />
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1591310806730">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591326868650" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1591326868650">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591310806730" />
-    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1591310806730">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591326868650" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1591326868651">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591310806730" />
-    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1591310806730">
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591326868651" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1591313248354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591310806730" />
-    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1591310806730">
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591313248354" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1591313248354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591310806730" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1591309527452">
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591313248354" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1591313248354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591309527452" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591311303539">
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591313248354" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1591313248354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591311303539" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591313248354" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1591311938993">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591311938993" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591311810137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591311810137" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591325877280">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1366.728@0.0.1536.824" timestamp="1591325877280" />
   </component>
 </project>

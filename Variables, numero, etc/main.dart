@@ -26,7 +26,7 @@ main(List<String> arguments) {
   //Imprimir con salto de linea
 
   print('''
-  "Esta es una linea de respeta espacios"
+  "Esta es una linea que respeta espacios"
   
   "Como se puede ver"
   
@@ -36,4 +36,8 @@ main(List<String> arguments) {
 
   ''');
 
+
+  print("LINEA 1 \nLINEA 2");
+
+  print(variable);
 }
