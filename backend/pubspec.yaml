@@ -1,0 +1,3 @@
+name: backend
+dependencies:
+  dart_express: ^0.2.3
